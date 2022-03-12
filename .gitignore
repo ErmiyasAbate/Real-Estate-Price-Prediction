@@ -139,5 +139,3 @@ dmypy.json
 cython_debug/
 
 .idea/
-
-.git/info/exclude
